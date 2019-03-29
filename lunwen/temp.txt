@@ -1,0 +1,1 @@
+系统基于Android系统，研究并学习移动端界面设计必不可少。Android的组件分为布局和控件。布局，就是让控件在里面按一定的次序排列好的一种组件，本身并不提供内容。控件，就是显示内容的组件，比如显示一张图片，显示d等等。在Android中，共有五种布局方式，分别是：FrameLayout(框架布局)，LinearLayout (线性布局)，AbsoluteLayout(绝对布局)，RelativeLayout(相对布局)，TableLayout(表格布局)。另外包括许多常用组件的使用，例如TextView(文本框)、EditView(输入框)、Button(按钮)、ListView(列表)、RadioButton(单选框)、CheckBox(复选框)等等。
